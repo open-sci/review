@@ -3,7 +3,7 @@
 **Version: 1.0**
 
 ### Preamble
-The key words "MUST", "MUST NOT" and "MAY" in this document are to be interpreted as described in Request For Comments 2119, available at https://tools.ietf.org/html/rfc2119.
+The key words "MUST", "MUST NOT" and "MAY" in this document are to be interpreted as described in Request For Comments 2119, available at [https://tools.ietf.org/html/rfc2119](https://tools.ietf.org/html/rfc2119).
 
 ### Rights and duties
 
