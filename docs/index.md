@@ -1,11 +1,11 @@
-# Reviewer's rights and duties
+## Reviewer's rights and duties
 
-## Version: 1.0
+**Version: 1.0**
 
-## Preamble
+### Preamble
 The key words "MUST", "MUST NOT" and "MAY" in this document are to be interpreted as described in Request For Comments 2119, available at https://tools.ietf.org/html/rfc2119.
 
-## Rights and duties
+### Rights and duties
 
 **1. Authorship.** A reviewer MUST be given the opportunity to retain the copyright over the review content, or to freely hand it over, and MUST permit always and in any case its free reproduction.
 
